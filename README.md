@@ -1,4 +1,4 @@
-# 🚢 Data Experimentation: Titanic Survival Analysis
+# Data Experimentation: Titanic Survival Analysis
 
 ## Project Overview
 This project performs an **Exploratory Data Analysis (EDA)** on the historical Titanic passenger dataset. The goal is to analyze survival trends and visualize the complex relationship between a passenger's attributes (Class, Gender, Age, and Family Size) and their probability of survival. This project follows a fundamental data science workflow, from data acquisition and cleaning through visualization and presentation.
@@ -9,7 +9,7 @@ This project performs an **Exploratory Data Analysis (EDA)** on the historical T
 
 ***
 
-## 📊 Key Findings & Visualizations
+## Key Findings & Visualizations
 
 This table summarizes the core questions asked and the major insights found in the data:
 
@@ -22,7 +22,7 @@ This table summarizes the core questions asked and the major insights found in t
 
 ***
 
-## 🛠️ Tools Used
+## Tools Used
 * **Python 3**
 * **Pandas:** For data loading, exploration, and manipulation (cleaning missing 'Age' and 'Cabin' values).
 * **Matplotlib & Seaborn:** For data visualization and statistical plotting.
